@@ -4,4 +4,4 @@ Solution to challenge https://www.reddit.com/r/dailyprogrammer/comments/84uk5v/2
 
 How to execute this program: ruby ./integer_complexity.rb \<integer\> <cache_max>.
   
-First the complexity of all integers and all prime numbers <= cache_max are calculated. This data is used to caculate an upper bound of \<integer\> complexity.
+First the complexity of all integers and all prime numbers <= <cache_max> are calculated. This data is used to caculate an upper bound of \<integer\> complexity.
